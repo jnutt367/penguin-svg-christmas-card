@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 744.09 1052.4">
+  <defs id="defs4">
+    <radialGradient id="radialGradient3161" gradientUnits="userSpaceOnUse" cy="728.26" cx="456.78" gradientTransform="matrix(.71948 -.0024671 .0035018 1.0212 50.523 105.48)" r="489.07">
+      <stop id="stop3157" stop-color="#fdecb6" offset="0"/>
+      <stop id="stop3437" stop-color="#b87e04" offset=".36271"/>
+      <stop id="stop3435" stop-color="#590a2a" offset=".68512"/>
+      <stop id="stop3159" stop-color="#10143a" offset="1"/>
+    </radialGradient>
+    <filter id="filter3533">
+      <feGaussianBlur id="feGaussianBlur3535" stdDeviation="3.3903249"/>
+    </filter>
+    <filter id="filter3595" y="-.11614" width="1.2881" x="-.14407" height="1.2323">
+      <feGaussianBlur id="feGaussianBlur3597" stdDeviation="24.145726"/>
+    </filter>
+    <filter id="filter3677">
+      <feGaussianBlur id="feGaussianBlur3679" stdDeviation="9.7118333"/>
+    </filter>
+    <linearGradient id="linearGradient3687" x1="288.57" gradientUnits="userSpaceOnUse" y1="1192.4" gradientTransform="translate(-34)" x2="362.86" y2="875.22">
+      <stop id="stop3683" stop-color="#61452f" offset="0"/>
+      <stop id="stop3685" stop-color="#271406" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1">
+    <rect id="rect2383" height="1077.1" width="1008.6" stroke="#000001" y="3.7908" x="-139.71" fill="url(#radialGradient3161)"/>
+    <path id="path3163" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.38158 0 0 .63158 245.17 -40.709)"/>
+    <rect id="rect3439" height="337.14" filter="url(#filter3677)" width="1171.4" y="855.22" x="-231.14" fill="url(#linearGradient3687)"/>
+    <path id="path3537" filter="url(#filter3595)" transform="matrix(.58194 -.63072 .58030 .59437 -432.4 176.98)" fill="#3e4c88" d="m665.71 669.51a315.71 17.143 0 1 1 -631.42 0 315.71 17.143 0 1 1 631.42 0z"/>
+    <path id="path3599" filter="url(#filter3595)" transform="matrix(-.63094 -.58170 .59415 -.58052 437.61 938.91)" fill="#606c9c" d="m665.71 669.51a315.71 17.143 0 1 1 -631.42 0 315.71 17.143 0 1 1 631.42 0z"/>
+    <path id="path3740" filter="url(#filter3595)" transform="matrix(.83567 -.19522 .14652 .81765 -327.39 -282.16)" fill="#3e4c88" d="m665.71 669.51a315.71 17.143 0 1 1 -631.42 0 315.71 17.143 0 1 1 631.42 0z"/>
+    <path id="path3742" filter="url(#filter3595)" transform="matrix(-.83951 .17801 -.12969 -.82049 1030.2 543.96)" fill="#606c9c" d="m665.71 669.51a315.71 17.143 0 1 1 -631.42 0 315.71 17.143 0 1 1 631.42 0z"/>
+    <path id="path3744" filter="url(#filter3595)" transform="matrix(.715 .47460 -.49486 .66718 177.58 -680.64)" fill="#3e4c88" d="m665.71 669.51a315.71 17.143 0 1 1 -631.42 0 315.71 17.143 0 1 1 631.42 0z"/>
+    <path id="path3746" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 682.54 126.21)"/>
+    <path id="path3748" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 356.83 273.35)"/>
+    <path id="path3750" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 -28.887 361.93)"/>
+    <path id="path3752" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 -57.459 184.78)"/>
+    <path id="path3754" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 62.541 241.93)"/>
+    <path id="path3756" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 39.684 76.212)"/>
+    <path id="path3758" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 716.83 407.64)"/>
+    <path id="path3760" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 779.68 584.78)"/>
+    <path id="path3762" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 -94.601 647.64)"/>
+    <path id="path3764" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 559.68 53.355)"/>
+    <path id="path3766" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 791.11 147.64)"/>
+    <path id="path3768" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 176.83 90.498)"/>
+    <path id="path3770" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 -97.459 30.498)"/>
+    <path id="path3772" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 556.83 224.78)"/>
+    <path id="path3774" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 582.54 524.78)"/>
+    <path id="path3776" filter="url(#filter3533)" d="m451.43 266.65l-90.2 20.58-15.52 90.85-20.58-90.2-90.84-15.52 90.19-20.58 15.52-90.85 20.59 90.2 90.84 15.52z" fill="#fff8e2" transform="matrix(.11842 0 0 .14474 128.26 613.35)"/>
+    <path id="path3786" d="m66 569.51c148.57-150 155-170 310-172.5 153.05-2.47 401.43 212.5 401.43 212.5" fill="none"/>
+    <text id="text3790" font-size="100px" stroke-width="2" stroke-opacity=".39091" xml:space="preserve" transform="matrix(.98060 .19602 -.19602 .98060 168.59 -34.576)" stroke="#a59003" font-family="Isabella" fill="#000000">
+      <textPath id="textPath3796" xlink:href="#path3786">
+        <tspan id="tspan3792" stroke="#a59003" font-size="100px" stroke-width="2" stroke-opacity=".39091">
+          <tspan id="tspan3794" font-size="100px" stroke-opacity=".39091" stroke="#a59003" y="-336.25568" x="137.15625" stroke-width="2">Merry Christmas</tspan>
+        </tspan>
+      </textPath>
+    </text>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
