@@ -1,0 +1,1 @@
+gsap.to("#noel", { duration: 3, fill: "blue", stroke: "white", strokeWidth: "5", repeat: -1 })
